@@ -5,7 +5,8 @@ ozkansener@gmail.com
 
 In today's world everybody gives advice in cybersecurity and a layman person (business executive or IT manager) does not know whether they have good advice or not.
 This guide is a checklist for beginners and this checklist can be improved so any feedback is welcome.
-This defence would not hold against state hackers, but will help you in your defence as an average size company.
+This defence would not hold against state hackers, but will help you in your defence as an average size company againt most attacks.
+Cyber security is about creating barries (there is unfortenely not more you could do) and by doing this narrow the vision of the hacker.
 
 
 Security measures can be classified in four categories:
