@@ -5,6 +5,7 @@ ozkansener@gmail.com
 
 In today's world everybody gives advice in cybersecurity and a layman person (business executive or IT manager) does not know whether they have good advice or not.
 This guide is a checklist for beginners and this checklist can be improved so any feedback is welcome.
+This defence would not hold against state hackers, but will help you in your defence as an average size company.
 
 
 Security measures can be classified in four categories:
@@ -233,6 +234,11 @@ Host has been compromised.
 7.  File integrity validation
 8.  Cryptography
 
+## Consideration
+If you really want security also look for items like:
+1. Data diode
+2. Secunet
+3. Etc.
 
 # Questions:
 Ozkan Sener
