@@ -4,7 +4,7 @@ Vrije Universiteit Amsterdam
 ozkansener@gmail.com
 
 In today's world everybody gives advice in cybersecurity and a layman person (business executive or IT manager) does not know whether they have good advice or not.
-This guide is a checklist for beginners and this checklist can be improved so any feedback is welcome.
+This guide is a checklist for beginners and this checklist can be improved so any feedback is welcome. This guide was created in July 2018 and is regularly updated. 
 This defence would not hold against state hackers, but will help you in your defence as an average size company againt most attacks.
 Cyber security is about creating barries (there is unfortenely not more you could do) and by doing this narrow the vision of the hacker.
 
@@ -239,7 +239,9 @@ Host has been compromised.
 If you really want security also look for items like:
 1. Data diode
 2. Secunet
-3. Etc.
+3. Hardware Firewall
+4. Etc.
+
 
 # Questions:
 Ozkan Sener
