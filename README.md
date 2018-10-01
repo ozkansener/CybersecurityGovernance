@@ -23,7 +23,7 @@ Below we describe some basic measurements you can take to protect your enterpris
 2. Perimeter layer: Firewalls, NextGen L7 Firewall VPN, reverse proxy forward proxies, intrusion detection, single sign on, multi factor authentication
 3. Network layer: windows communication control, web application firewall, data acquisition network, Network access control, Logical access control, Network time protocol, wireless networks security, password management, security operation center
 4. Host:host based firewalls, anti virus & malware, Vulnerability scanning & patching, CMDB and asset management, server access control, Os hardening guidelines, Mobile devices and MDM, privileged access management, thumb drive protection
-5. Application: SSL cert, Role Based Access Control, Application code review, Key Management systems, Source code management security
+5. Application: SSL cert, Role Based Access Control, Application code review, Key Management systems, Source code management security, Sandboxing, Virtualization
 6. Data: data encryption, data loss prevention, DDOS, Data backup
 Compliance (Glue all together): Policies Procedures & Awareness (training): Governance, risk and compliance tool, business continuity and disaster recovery.
 7. Certification: Soc 2, ISO 27001, Privacy Shield, GDPR, change management, identity management and identity training, incident management, HR background checks
