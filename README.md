@@ -242,6 +242,10 @@ If you really want security also look for items like:
 3. Hardware Firewall
 4. Etc.
 
+## Others
+Email Spoofing: SPF, DKIM and DMARC
+DNSSEC, TLS
+
 
 # Questions:
 Ozkan Sener
