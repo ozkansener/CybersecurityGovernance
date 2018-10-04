@@ -247,6 +247,16 @@ Email Spoofing: SPF, DKIM and DMARC
 DNSSEC, TLS
 
 
+## Untrusted files
+We see very often that Human Resource Management has to open a resume or they have to open a file from somebody who they don't know.
+
+
+1. Save as and save in an isolated location (sandbox the execution), especially if you do not trust it.
+2. scan the virus scanner extra.
+3. Do not let Windows suppress the extensions of files anyway
+4. DO NOT open the file by double clicking on it (but by opening it from the application).
+5. Have a backup and restore if it goes wrong (hence the isolated location for storage (sandbox)
+
 # Questions:
 Ozkan Sener
 Vrije Universiteit Amsterdam
