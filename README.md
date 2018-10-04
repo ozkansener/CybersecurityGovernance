@@ -257,6 +257,9 @@ We see very often that Human Resource Management has to open a resume or they ha
 4. DO NOT open the file by double clicking on it (but by opening it from the application).
 5. Have a backup and restore if it goes wrong (hence the isolated location for storage (sandbox)
 
+## Hardware
+Buy hardware that you can trust. We know that different goverments are placing chips inside computers to manipulate them.
+
 # Questions:
 Ozkan Sener
 Vrije Universiteit Amsterdam
