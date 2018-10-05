@@ -247,6 +247,11 @@ Email Spoofing: SPF, DKIM and DMARC
 DNSSEC, TLS
 
 
+## Monitoring
+1. Egress filtering
+2. Ingress filtering
+3. etc
+
 ## Untrusted files
 We see very often that Human Resource Management has to open a resume or they have to open a file from somebody who they don't know.
 
