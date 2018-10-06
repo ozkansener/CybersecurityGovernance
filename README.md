@@ -252,6 +252,13 @@ DNSSEC, TLS
 2. Ingress filtering
 3. etc
 
+
+## Prepared if hacked
+1. You should have limited the access from the internet to vulnerable hosts as much as possible.
+2. Shutdown the compromised servers and go on the fallback or backup server and block the attacks. The backup server only has read access and writes are done in manully where each write operation is manually checked for intrusion or unauthorized operation.
+3. Contact the police or if you are managing a critical infrastructure your local NCSC.
+4. Learning how you have been hacked is very important in order to prevent the attack.
+
 ## Untrusted files
 We see very often that Human Resource Management has to open a resume or they have to open a file from somebody who they don't know.
 
@@ -263,7 +270,15 @@ We see very often that Human Resource Management has to open a resume or they ha
 5. Have a backup and restore if it goes wrong (hence the isolated location for storage (sandbox)
 
 ## Hardware
-Buy hardware that you can trust. We know that different goverments are placing chips inside computers to manipulate them.
+Buy hardware that you can trust. We know that different goverments are placing chips backdoors inside computers to manipulate them.
+For example the best router is a router that you have built yourself and where intelligence services and other hackers do not just have a ready-made hack as you probably have for the routers what you bought from the Cisco, ZTE or other routers.
+To configure such a router you need an APU2c4 which costs a few hundred euros. You can then find out whether you are going for a linux (iptables) or openbsd (pf) based on your firewall.
+
+## Learning curve
+There is no standard way of security. Documentation is very important to understand why things are happening the way it happens, because large companies have many services running and some of these are not so often used but also to know when an intruder is inside your network.
+You have to understand that great hackers have for almost everything a backdoor so what you see and what is happening in reality can be different therefore you need multiple types of inspections from mulitple location!
+
+
 
 # Questions:
 Ozkan Sener
