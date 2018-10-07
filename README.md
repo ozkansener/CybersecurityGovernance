@@ -290,7 +290,8 @@ Auditing is crucial for discovering your vulnerabilities
 There is no standard way of security. Documentation is very important to understand why things are happening the way it happens, because large companies have many services running and some of these are not so often used but also to know when an intruder is inside your network.
 You have to understand that great hackers have for almost everything a backdoor so what you see and what is happening in reality can be different therefore you need multiple types of inspections from mulitple location!
 
-
+## Other tips
+1. Use SPF and DMARC to protect your email domain.
 
 # Questions:
 Ozkan Sener
