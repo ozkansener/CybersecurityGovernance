@@ -270,6 +270,26 @@ We see very often that Human Resource Management has to open a resume or they ha
 4. DO NOT open the file by double clicking on it (but by opening it from the application).
 5. Have a backup and restore if it goes wrong (hence the isolated location for storage (sandbox)
 
+## Protect protcols for example RDP
+1. Segment your network so that any computer intrusion has limited consequences.
+2. Manage all devices via Out-of-Band network management.
+3. Perform hardening on all network equipment.
+4. Ensure that the RDP server - or the server running the RDP service - is provided with the latest updates and security patches.
+5. Set a different port than the default port 3389 for the RDP protocol.
+6. Make an inventory of all external links with your network.
+7. Limit external links to only the most necessary links.
+8. Make an inventory of the links that use the RDP and other protocols.
+9. Assess the necessity of using the RDP or any other protocol. If there is no need to use the protocol, switch it off.
+10. If the use of the RDP or another protocol is necessary, ensure that the connection to the remote computer is via a VPN connection.
+11. If possible, use additional security measures such as an authentication token.
+12. Disable the use of the Internet if a VPN tunnel connection is active on the remote computer.
+13. Set a maximum log duration for RDP sessions. Automatically disconnect the connection after, for example, 5 minutes.
+14. Set IP restrictions on the firewall so that only authorized computers can set up an RDP session.
+15. Configure access at all times based on authentication. Possibly two-factor authentication.
+16. Use strong passwords for logging in.
+17. Use different named management accounts.
+18. Limit the number of sign-in attempts on all accounts.
+
 ## Hardware
 Buy hardware that you can trust. We know that different goverments are placing chips backdoors inside computers to manipulate them.
 For example the best router is a router that you have built yourself and where intelligence services and other hackers do not just have a ready-made hack as you probably have for the routers what you bought from the Cisco, ZTE or other routers.
