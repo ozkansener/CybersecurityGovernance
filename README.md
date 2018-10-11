@@ -9,6 +9,11 @@ This defence would not hold against state hackers, but will help you in your def
 Cyber security is about creating barries (there is unfortenely not more you could do) and by doing this narrow the vision of the hacker.
 Be carefull that you don't do this that you don't know what it's effect is. Very often security engineers create new holes after they think that they have implemented a security measure.
 
+Before you do anything create an attack tree.
+Examples of different levels of attacks trees:
+
+https://attack.mitre.org/wiki/Main_Page
+
 
 Security measures can be classified in four categories:
 
