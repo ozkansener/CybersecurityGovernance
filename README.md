@@ -318,7 +318,8 @@ You have to understand that great hackers have for almost everything a backdoor 
 
 ## Other tips
 1. Use SPF and DMARC to protect your email domain.
-2. Perform security test.
+2. Perform security tests
+3. You should have some SIEM and IDS/IPS at place
 
 # Questions:
 Ozkan Sener
