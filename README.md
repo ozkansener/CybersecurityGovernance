@@ -3,6 +3,34 @@ Ozkan Sener
 Vrije Universiteit Amsterdam
 ozkansener@gmail.com
 
+Whereas until recently network security was seen mostly as the art of keeping attackers out of your network, the realization nowadays is that this is too simple a representation of reality. A naive view too. Of course, security measures on the outside of your network are still important, but they are only part of the necessary measures. Because what if an attacker, despite all the measures, enters your network? Assume breach. What can you do to minimize the damage in that case?
+
+At this point of departure, it is not the question whether or not when an attacker enters your network. Are you able to detect the attacker in time? Have you organized mechanisms such as network segmentation and restrained use of admin accounts to slow down attackers? And are you able to clear an attacker from your network as quickly as possible and to bring your network to a renewed trusted and working state?
+
+To make a good plan you have to know exactly what you are protecting. How many networks is it about? What does the topology of your networks look like? Which interfaces do these networks have with the outside world and each other? Which systems and how many exist in these networks? And which software runs on this? Who manages these systems and software?
+
+If you can not get answers to these questions within a short period of time, you have a challenge. Without this knowledge it is difficult to organize your defense. Attackers map your network as soon as they come in, make sure you're ahead of them and you have a better view than they are on the battle scene. Make sure you have this basis in order. And keep. Otherwise you are defending yourself with a blindfold.
+
+This does not sound sexy and it is not. But it is the most important thing. Without this you can not afford the luxury to worry about hip things like bugbounty programs and 0days. And it is not easy. Are you sure you have a view of everything? No longer an old unattended test server?
+
+And if your company infrastructure is running in the cloud, do you know what your network looks like? Are there any open AWS buckets to be found? With a view of everything the network contains, it is important to scan for vulnerabilities. Old and new vulnerabilities. Continuously. Are there systems that need to be patched? Or even (temporarily) off-line should be met?
+
+Analysis
+
+With a view on which systems and software your network forms, you have a good static image. Now a dynamic image: what happens on your network? Which traffic is going between what systems? And which processes generate this traffic? If Internet traffic is initiated from your mail server, you want to know this. If there are clients who generate a lot of network traffic outside of office hours, you want to know this. To know this, you must be able to see it. Collect syslogs. Collect logging of network equipment. Collect all Netflow / IPFIX. Aggregate all this data on a platform and analyze it. Make sure you know what is normal and what is different. Make sure you can match known IOCs and detect known malware or offensive software or techniques.
+
+With a dynamic image you can see what happens, but an advanced attacker will try not to stand out from the regular course of events on your network. But it is your network, you know this terrain and determine what happens. Get him to a place where you can see him well. Honeypots, canary tokens, do what you have to do to make him run against the lamp.
+
+Not only do you want to see and analyze it, you also want to keep it. When an attacker comes in, you want to analyze how he got in. What did he do. This is going to help you get him out of your network, and to make sure he can not come back in the same way.
+
+Succession
+
+And this touches on another important piece of information security: incident response. How do you adequately respond to a breakthrough in your security? Without (being able to) give good follow-up to incidents, detection does not make any sense. You no longer have a blindfold, but without incident response you fight your hands on your back. Good incident response requires good communication, internal coordination and exercise.
+
+All that is hard work. It is easy to stare blindly at (expensive) appliances and software that help you with this. More importantly, you have smart people on board throughout the security chain. Invest in good people. Invest to bring them in and keep them inside.
+
+And smart people do not necessarily recognize infosec certifications. There are certainly good infosec training and associated valuable certificates, but there are a lot of certificates nowadays, where obtaining them says little about the practically applicable technical domain knowledge. Meanwhile, a whole certification industry has emerged where the focus seems to be more on earning money from newcomers
+
 In today's world everybody gives advice in cybersecurity and a layman person (business executive or IT manager) does not know whether they have good advice or not.
 This guide is a checklist for beginners and this checklist can be improved so any feedback is welcome. This guide was created in July 2018 and is regularly updated. 
 This defence would not hold against state hackers, but will help you in your defence as an average size company againt most attacks.
